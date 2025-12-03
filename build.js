@@ -1,6 +1,13 @@
 // build.js — génère toutes les pages multilingues à partir d'un layout
 // Utilisation : node build.js
-
+// Petite fonction de nettoyage pour éviter que le HTML casse
+function safeHTML(html) {
+  return html
+    .replace(/[\r\t]+/g, '')       // enlève les tabulations
+    .replace(/\n{3,}/g, '\n\n')    // enlève les trous trop grands
+    .replace(/<\/div>\s*<\/div>/g, '</div>') // enlève un div en trop
+    .trim();
+}
 const fs = require('fs');
 const path = require('path');
 
