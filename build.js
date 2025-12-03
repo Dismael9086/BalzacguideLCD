@@ -1111,23 +1111,22 @@ function pageContent(lang, slug) {
       fermez la porte derrière vous.<br>
       La serrure se <strong>verrouillera automatiquement</strong>.
     </div>
-    <div class="rule-card">
-    <div class="rule-icon">📱</div>
-    <div class="rule-text">Si possible, envoyez-nous un court message WhatsApp pour nous confirmer votre départ.</div>
-  </div>
-  <div class="rule-card">
-  <div class="rule-icon">💬</div>
+<div class="rule-card">
+  <div class="rule-icon">📱</div>
   <div class="rule-text">
-    <a 
-      href="https://wa.me/33782178715?text=Bonjour%2C%20je%20viens%20de%20quitter%20l%27appartement%20et%20tout%20est%20ok%20!"
-      style="text-decoration:none; color:#007AFF; font-weight:600;"
-    >
-      📩 Envoyer un message WhatsApp
-    </a>
+ confirmez votre départ automatiquement en cliquant ci dessous.
+
+    <div style="margin-top:6px;">
+      <a 
+        href="https://wa.me/33782178715?text=Bonjour%2C%20je%20viens%20de%20quitter%20l%27appartement%20et%20tout%20est%20ok%20!"
+        style="text-decoration:none; font-weight:600; color:#007AFF;"
+      >
+        📩 Envoyer un message
+      </a>
+    </div>
   </div>
 </div>
 
-</div>
 `;
     }
 
@@ -1184,19 +1183,21 @@ function pageContent(lang, slug) {
       close the door behind you.<br>
       The lock will <strong>automatically lock</strong>.
     </div>
-    <div class="rule-card">
-  <div class="rule-icon">💬</div>
+<div class="rule-card">
+  <div class="rule-icon">📱</div>
   <div class="rule-text">
-    <a 
-      href="https://wa.me/33782178715?text=Hello%2C%20I%20have%20just%20left%20the%20apartment%20and%20everything%20is%20ok%20!"
-      style="text-decoration:none; color:#007AFF; font-weight:600;"
-    >
-      📩 Send WhatsApp message
-    </a>
+  Confirm that you have checked out by cliquing the link below.
+    <div style="margin-top:6px;">
+      <a 
+        href="https://wa.me/33782178715?text=Hi%2C%20I%20have%20just%20left%20the%20apartment%20and%20everything%20is%20fine%20!"
+        style="text-decoration:none; font-weight:600; color:#007AFF;"
+      >
+        📩 Send a message
+      </a>
+    </div>
   </div>
-  </div>
-
 </div>
+
 `;
     }
 
@@ -1253,19 +1254,21 @@ function pageContent(lang, slug) {
       cierre la puerta al salir.<br>
       La cerradura se <strong>bloqueará automáticamente</strong>.
     </div>
-    <div class="rule-card">
-  <div class="rule-icon">💬</div>
+ <div class="rule-card">
+  <div class="rule-icon">📱</div>
   <div class="rule-text">
-    <a 
-      href="https://wa.me/33782178715?text=Hola%2C%20acabo%20de%20salir%20del%20apartamento%20y%20todo%20est%C3%A1%20bien%20!"
-      style="text-decoration:none; color:#007AFF; font-weight:600;"
-    >
-      📩 Enviar mensaje por WhatsApp
-    </a>
+    Confirmar su salida automaticamente por whatsapp cliqueando en el enlace a bajo.
+    <div style="margin-top:6px;">
+      <a 
+        href="https://wa.me/33782178715?text=Hola%2C%20acabo%20de%20salir%20del%20apartamento%20y%20todo%20est%C3%A1%20bien%20!"
+        style="text-decoration:none; font-weight:600; color:#007AFF;"
+      >
+        📩 Enviar mensaje
+      </a>
+    </div>
   </div>
-  </div>
-
 </div>
+
 `;
     }
   }
