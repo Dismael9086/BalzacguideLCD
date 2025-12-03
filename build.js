@@ -1111,11 +1111,11 @@ function pageContent(lang, slug) {
       fermez la porte derrière vous.<br>
       La serrure se <strong>verrouillera automatiquement</strong>.
     </div>
+  </div>
 <div class="rule-card">
   <div class="rule-icon">📱</div>
   <div class="rule-text">
  confirmez votre départ automatiquement en cliquant ci dessous.
-
     <div style="margin-top:6px;">
       <a 
         href="https://wa.me/33782178715?text=Bonjour%2C%20je%20viens%20de%20quitter%20l%27appartement%20et%20tout%20est%20ok%20!"
@@ -1125,6 +1125,7 @@ function pageContent(lang, slug) {
       </a>
     </div>
   </div>
+</div>
 </div>
 
 `;
@@ -1183,6 +1184,7 @@ function pageContent(lang, slug) {
       close the door behind you.<br>
       The lock will <strong>automatically lock</strong>.
     </div>
+  </div>
 <div class="rule-card">
   <div class="rule-icon">📱</div>
   <div class="rule-text">
@@ -1254,6 +1256,7 @@ function pageContent(lang, slug) {
       cierre la puerta al salir.<br>
       La cerradura se <strong>bloqueará automáticamente</strong>.
     </div>
+  </div>
  <div class="rule-card">
   <div class="rule-icon">📱</div>
   <div class="rule-text">
